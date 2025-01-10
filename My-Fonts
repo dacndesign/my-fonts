@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'CoconPro';
+    src: url('https://dacndesign.github.io/my-fonts/CoconPro-Regular.woff2') format('woff2'),
+         url('https://dacndesign.github.io/my-fonts/CoconPro-Regular.woff') format('woff'),
+         url('https://dacndesign.github.io/my-fonts/CoconPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
